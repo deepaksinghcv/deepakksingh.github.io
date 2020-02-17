@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>A Pelican Blog</title><link href="/" rel="alternate"></link><link href="/feeds/all-en.atom.xml" rel="self"></link><id>/</id><updated>2020-01-21T12:30:00+00:00</updated><entry><title></title><link href="/welcome.html" rel="alternate"></link><published>2020-01-21T12:30:00+00:00</published><updated>2020-01-21T12:30:00+00:00</updated><author><name></name></author><id>tag:None,2020-01-21:/welcome.html</id><content type="html">&lt;p&gt;Welcome to my page.
+You can find all my latest works and projects here.
+Feel free to look around.&lt;/p&gt;
+&lt;p&gt;[THIS PAGE IS STILL UNDER CONSTRUCTION]&lt;/p&gt;</content></entry></feed>
