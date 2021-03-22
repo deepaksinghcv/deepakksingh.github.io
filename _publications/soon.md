@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/soon
 excerpt: 'soon'
 date: 2021-03-22
-venue: 'Journal 1'
+venue: ''
 paperurl: ''
 citation: ''
 ---
