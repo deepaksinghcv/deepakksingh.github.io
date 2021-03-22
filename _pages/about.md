@@ -13,6 +13,6 @@ I am a MS by Research student at IIIT Hyderabad. I am fortunate to have Prof. C.
 
 Before joining IIIT Hyderabad, I was working at Celstream Technologies, Bangalore, as a Software Engineer for 2 years. 
 
-#I was part of a team which built system related to banking system's
+<!-- #I was part of a team which built system related to banking system's -->
 
 e-mail: deepak.singh[at]research.iiit.ac.in
